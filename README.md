@@ -65,7 +65,7 @@ This repository is maintained as both:
 
 | Day | Topic | Status |
 |----|------|--------|
-| [Day 1](Day-01/) | Day 1 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
+| [Day 1](md/day1.md/) | Day 1 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
 | [Day 2](Day-02/) | Day 2 Task | ![Pending](https://img.shields.io/badge/Status-Pending-lightgrey) |
 | [Day 3](Day-03/) | Day 3 Task | ![Pending](https://img.shields.io/badge/Status-Pending-lightgrey) |
 | [Day 4](Day-04/) | Day 4 Task | ![Pending](https://img.shields.io/badge/Status-Pending-lightgrey) |
