@@ -67,14 +67,14 @@ This repository is maintained as both:
 |----|------|--------|
 | [Day 1](md/day1.md/) | Day 1 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
 | [Day 2](md/day2.md/) | Day 2 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
-| [Day 3](Day-03/) | Day 3 Task | ![Pending](https://img.shields.io/badge/Status-Pending-lightgrey) |
-| [Day 4](Day-04/) | Day 4 Task | ![Pending](https://img.shields.io/badge/Status-Pending-lightgrey) |
-| [Day 5](Day-05/) | Day 5 Task | ![Pending](https://img.shields.io/badge/Status-Pending-lightgrey) |
-| [Day 6](Day-06/) | Day 6 Task | ![Pending](https://img.shields.io/badge/Status-Pending-lightgrey) |
-| [Day 7](Day-07/) | Day 7 Task | ![Pending](https://img.shields.io/badge/Status-Pending-lightgrey) |
-| [Day 8](Day-08/) | Day 8 Task | ![Pending](https://img.shields.io/badge/Status-Pending-lightgrey) |
-| [Day 9](Day-09/) | Day 9 Task | ![Pending](https://img.shields.io/badge/Status-Pending-lightgrey) |
-| [Day 10](Day-10/) | Day 10 Task | ![Pending](https://img.shields.io/badge/Status-Pending-lightgrey) |
+| [Day 3](Day-03/) | Day 3 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
+| [Day 4](Day-04/) | Day 4 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
+| [Day 5](Day-05/) | Day 5 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
+| [Day 6](Day-06/) | Day 6 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
+| [Day 7](Day-07/) | Day 7 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
+| [Day 8](Day-08/) | Day 8 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
+| [Day 9](Day-09/) | Day 9 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
+| [Day 10](Day-10/) | Day 10 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
 | ... | ... | ... |
 | [Day 30](Day-30/) | Day 30 Task | ![Pending](https://img.shields.io/badge/Status-Pending-lightgrey) |
 
