@@ -76,7 +76,7 @@ This repository is maintained as both:
 | [Day 9](Day-09/) | Day 9 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
 | [Day 10](Day-10/) | Day 10 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
 | ... | ... | ... |
-| [Day 30](Day-30/) | Day 30 Task | ![Pending](https://img.shields.io/badge/Status-Pending-lightgrey) |
+| [Day 30](Day-30/) | Day 30 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
 
 ---
 ## 📂 Repository Structure
