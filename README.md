@@ -67,16 +67,16 @@ This repository is maintained as both:
 |----|------|--------|
 | [Day 1](md/day1.md/) | Day 1 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
 | [Day 2](md/day2.md/) | Day 2 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
-| [Day 3](Day-03/) | Day 3 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
-| [Day 4](Day-04/) | Day 4 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
-| [Day 5](Day-05/) | Day 5 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
-| [Day 6](Day-06/) | Day 6 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
-| [Day 7](Day-07/) | Day 7 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
-| [Day 8](Day-08/) | Day 8 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
-| [Day 9](Day-09/) | Day 9 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
-| [Day 10](Day-10/) | Day 10 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
+| [Day 3](md/day3.md/) | Day 3 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
+| [Day 4](md/day4.md/) | Day 4 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
+| [Day 5](md/day5.md/) | Day 5 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
+| [Day 6](md/day6.md/) | Day 6 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
+| [Day 7](md/day7.md/) | Day 7 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
+| [Day 8](md/day8.md/) | Day 8 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
+| [Day 9](md/day9.md/) | Day 9 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
+| [Day 10](md/day10.md/) | Day 10 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
 | ... | ... | ... |
-| [Day 30](Day-30/) | Day 30 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
+| [Day 30](md/day30.md/) | Day 30 Task | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |
 
 ---
 ## 📂 Repository Structure
